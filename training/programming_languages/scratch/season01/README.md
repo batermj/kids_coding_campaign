@@ -1,3 +1,5 @@
+# Lesson 01, Hello World
+
 # Lesson 05, Clone Game
 
 + ex02 Snaking Clones v0.3
