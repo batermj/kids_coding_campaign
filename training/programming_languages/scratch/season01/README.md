@@ -1,14 +1,17 @@
+# Lesson 05, Clone Game
+
++ ex02 Snaking Clones v0.3
 
 # Lesson 06, Chasing Game
 
-+ 016, Turtle Life V2.0 Mobile Support
++ ex016, Turtle Life V2.0 Mobile Support
 
 # Lesson 09, Shooting Game
 
-+ 001, Roguelike Platformer Demo 2
-+ 002, Space JetPack
++ ex001, Roguelike Platformer Demo 2
++ ex002, Space JetPack
 
 # Lesson 10, Fighting Game
 
-+ 001, Fighting Engine
-+ 002, Fighting Friends
++ ex001, Fighting Engine
++ ex002, Fighting Friends
