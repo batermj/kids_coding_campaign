@@ -20,6 +20,11 @@
 + src link: [Clone Effects](https://scratch.mit.edu/projects/24675740/)
 + local number: lesson05_ex0004_Clone_Effects.sb3 	
 
+## ex00005, 'Spiral Clone Interactive Experiment'
+
++ src link: [Spiral Clone Interactive Experiment](https://scratch.mit.edu/projects/10069356/)
++ local number: lesson05_ex0005_Spiral_Clone_Interactive_Experiment.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
