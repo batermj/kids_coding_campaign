@@ -70,6 +70,11 @@
 + src link: [Free clone effects](https://scratch.mit.edu/projects/116300201/)
 + local number: lesson05_ex00014_Free_clone_effects.sb3
 
+## ex00015, 'Clone Art'
+
++ src link: [Clone Art](https://scratch.mit.edu/projects/13413763/)
++ local number: lesson05_ex00015_Clone_Art.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
