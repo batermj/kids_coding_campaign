@@ -60,6 +60,11 @@
 + src link: [Glowing clone waterfall](https://scratch.mit.edu/projects/10017307/)
 + local number: lesson05_ex00012_Glowing_clone_waterfall.sb3
 
+## ex00013, 'Projectile motion clone'
+
++ src link: [Projectile motion clone](https://scratch.mit.edu/projects/10065875/)
++ local number: lesson05_ex00013_Projectile_motion_clone.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
