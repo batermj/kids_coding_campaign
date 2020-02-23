@@ -65,6 +65,11 @@
 + src link: [Projectile motion clone](https://scratch.mit.edu/projects/10065875/)
 + local number: lesson05_ex00013_Projectile_motion_clone.sb3
 
+## ex00014, 'Free clone effects'
+
++ src link: [Free clone effects](https://scratch.mit.edu/projects/116300201/)
++ local number: lesson05_ex00014_Free_clone_effects.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
