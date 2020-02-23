@@ -40,6 +40,11 @@
 + src link: [How to make a sprite shoot fireballs](https://scratch.mit.edu/projects/17357218/)
 + local number: lesson05_ex0008_How_to_make_a_sprite_shoot_fireballs.sb3
 
+## ex00009, 'clone beautiful curves'
+
++ src link: [clone beautiful curves](https://scratch.mit.edu/projects/10259136/)
++ local number: lesson05_ex0009_clone_beautiful_curves.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
