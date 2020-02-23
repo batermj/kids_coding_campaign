@@ -30,6 +30,11 @@
 + src link: [Wave Clone interactive](https://scratch.mit.edu/projects/10057285/)
 + local number: lesson05_ex0006_Wave_Clone_interactive.sb3
 
+## ex000x, 'Clone Detection Done Easy!'
+
++ src link: [Clone Detection Done Easy!](https://scratch.mit.edu/projects/11133018/)
++ local number: lesson05_ex0007_Clone_Detection_Done_Easy!.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
