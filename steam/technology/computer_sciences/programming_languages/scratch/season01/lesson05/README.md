@@ -75,6 +75,11 @@
 + src link: https://scratch.mit.edu/projects/10722760/
 + local number: lesson05_ex01002_Untangle_the_Clones_WITH SCORING.sb3
 
+## ex00013, 'Doodle Jump Clone Demo'
+
++ src link: [Doodle Jump Clone Demo](https://scratch.mit.edu/projects/21270918/) 
++ local number: lesson05_ex01003_Doodle_Jump_Clone_Demo.sb3
+
 ## ex000x, ''
 
 + src link: 
