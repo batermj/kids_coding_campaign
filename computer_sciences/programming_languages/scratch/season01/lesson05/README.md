@@ -15,7 +15,12 @@
 + src link: https://scratch.mit.edu/projects/16113008/
 + local number: lesson05_ex0003_Clone_Programming_v2.6.sb3
 
-## ex10001, 'Tree Generator'
+## ex01000, 'Snaking Clone, v0.3'
+
++ src link: 
++ local number: lesson05_ex01000_Snaking_Clones_v0.3.sb3
+
+## ex01001, 'Tree Generator'
 
 + src link: https://scratch.mit.edu/projects/16133003/
 + local number: lesson05_ex01001_Tree_Generator.sb3
