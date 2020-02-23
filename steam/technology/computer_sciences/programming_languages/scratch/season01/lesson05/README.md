@@ -45,6 +45,11 @@
 + src link: [clone beautiful curves](https://scratch.mit.edu/projects/10259136/)
 + local number: lesson05_ex0009_clone_beautiful_curves.sb3
 
+## ex00010, 'Clone explosion'
+
++ src link: [Clone explosion](https://scratch.mit.edu/projects/10025576/)
++ local number: lesson05_ex00010_Clone explosion.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
