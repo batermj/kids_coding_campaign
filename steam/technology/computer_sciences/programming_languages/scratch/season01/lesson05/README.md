@@ -50,6 +50,11 @@
 + src link: [Clone explosion](https://scratch.mit.edu/projects/10025576/)
 + local number: lesson05_ex00010_Clone explosion.sb3
 
+## ex00011, "Let's Creatively Clone!"
+
++ src link: [Let's Creatively Clone!](https://scratch.mit.edu/projects/29849188/)
++ local number: lesson05_ex00011_Lets_Creatively_Clone.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
