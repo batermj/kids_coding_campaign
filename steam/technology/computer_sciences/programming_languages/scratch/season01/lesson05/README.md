@@ -30,10 +30,15 @@
 + src link: [Wave Clone interactive](https://scratch.mit.edu/projects/10057285/)
 + local number: lesson05_ex0006_Wave_Clone_interactive.sb3
 
-## ex000x, 'Clone Detection Done Easy!'
+## ex00007, 'Clone Detection Done Easy!'
 
 + src link: [Clone Detection Done Easy!](https://scratch.mit.edu/projects/11133018/)
 + local number: lesson05_ex0007_Clone_Detection_Done_Easy!.sb3
+
+## ex00008, 'How to make a sprite shoot fireballs'
+
++ src link: [How to make a sprite shoot fireballs](https://scratch.mit.edu/projects/17357218/)
++ local number: lesson05_ex0008_How_to_make_a_sprite_shoot_fireballs.sb3
 
 ## ex01000, 'Snaking Clone, v0.3'
 
