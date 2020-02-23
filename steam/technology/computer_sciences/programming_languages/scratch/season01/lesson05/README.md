@@ -25,6 +25,11 @@
 + src link: [Spiral Clone Interactive Experiment](https://scratch.mit.edu/projects/10069356/)
 + local number: lesson05_ex0005_Spiral_Clone_Interactive_Experiment.sb3
 
+## ex00006, 'Wave Clone interactive'
+
++ src link: [Wave Clone interactive](https://scratch.mit.edu/projects/10057285/)
++ local number: lesson05_ex0006_Wave_Clone_interactive.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
