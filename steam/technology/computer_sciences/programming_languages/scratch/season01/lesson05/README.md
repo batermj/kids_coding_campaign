@@ -55,6 +55,11 @@
 + src link: [Let's Creatively Clone!](https://scratch.mit.edu/projects/29849188/)
 + local number: lesson05_ex00011_Lets_Creatively_Clone.sb3
 
+## ex00012, 'Glowing clone waterfall'
+
++ src link: [Glowing clone waterfall](https://scratch.mit.edu/projects/10017307/)
++ local number: lesson05_ex00012_Glowing_clone_waterfall.sb3
+
 ## ex01000, 'Snaking Clone, v0.3'
 
 + src link: 
