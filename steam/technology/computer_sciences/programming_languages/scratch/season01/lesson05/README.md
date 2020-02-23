@@ -25,6 +25,11 @@
 + src link: https://scratch.mit.edu/projects/16133003/
 + local number: lesson05_ex01001_Tree_Generator.sb3
 
+## ex01002, 'Untangle the Clones - WITH SCORING'
+
++ src link: https://scratch.mit.edu/projects/10722760/
++ local number: lesson05_ex01002_Untangle_the_Clones_WITH SCORING.sb3
+
 ## ex000x, ''
 
 + src link: 
