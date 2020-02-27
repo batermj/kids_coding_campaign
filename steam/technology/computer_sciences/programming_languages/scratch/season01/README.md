@@ -10,7 +10,9 @@
 
 # Lesson 05, Clone Game
 
-# Lesson 06, Chasing Game
+# Lesson 06, Word Search Game
+
+# Lesson 07, Chasing Game
 
 # Lesson 09, Shooting Game
 
