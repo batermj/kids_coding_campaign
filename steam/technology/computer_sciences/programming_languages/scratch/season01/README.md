@@ -14,7 +14,10 @@
 
 # Lesson 07, Jigsaw Game
 
-# Lesson 08, Shooting Game
+# Lesson 08, Shooter game，STG
+
++ First-person Shooter Game
++ Third-person Shooter Game
 
 # Lesson 09, Bubble Game
 
