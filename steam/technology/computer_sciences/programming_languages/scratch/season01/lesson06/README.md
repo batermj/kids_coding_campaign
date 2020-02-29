@@ -9,7 +9,7 @@
 
 ## ex00002, Word Search | Game
 
-+ src link: [Word Search | Game] (https://scratch.mit.edu/projects/320955955/)
++ src link: [Word Search | Game](https://scratch.mit.edu/projects/320955955/)
 + local name: lesson06_ex00002_Word_Search_Game.sb3
 
 ## ex00003, Word Search Maker 0.6.0
