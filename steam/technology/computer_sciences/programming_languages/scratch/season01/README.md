@@ -10,9 +10,9 @@
 
 # Lesson 05, Clone Game
 
-# Lesson 06, Word Search Game
+# Lesson 06, Word Search Game, PUZ
 
-# Lesson 07, Jigsaw Game
+# Lesson 07, Jigsaw Game, PUZ
 
 # Lesson 08, Shooter game，STG
 
