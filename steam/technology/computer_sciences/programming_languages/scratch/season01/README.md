@@ -12,8 +12,10 @@
 
 # Lesson 06, Word Search Game
 
-# Lesson 07, Chasing Game
+# Lesson 07, Jigsaw Game
 
-# Lesson 09, Shooting Game
+# Lesson 08, Shooting Game
+
+# Lesson 09, Bubble Game
 
 # Lesson 10, Fighting Game
