@@ -21,4 +21,4 @@
 
 # Lesson 09, Bubble Game
 
-# Lesson 10, Fighting Game
+# Lesson 10, Fighting Game, FTG
