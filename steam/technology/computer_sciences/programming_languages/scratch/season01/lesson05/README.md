@@ -95,6 +95,11 @@
 + src link: [Doodle Jump Clone Demo](https://scratch.mit.edu/projects/21270918/) 
 + local number: lesson05_ex01003_Doodle_Jump_Clone_Demo.sb3
 
+## ex00014, 'Flood it clone'
+
++ src link: [Flood it clone](https://scratch.mit.edu/projects/24999293/)
++ local number: lesson05_ex01004_Flood_it_clone.sb3
+
 ## ex000x, ''
 
 + src link: 
