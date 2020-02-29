@@ -19,6 +19,6 @@
 + First-person Shooter Game
 + Third-person Shooter Game
 
-# Lesson 09, Bubble Game
+# Lesson 09, Adventure Game, AVG
 
 # Lesson 10, Fighting Game, FTG
