@@ -6,10 +6,10 @@
 + local name: lesson11_ex00002_Tetris.sb3
 
 
-## ex00002,
+## ex00002, Tetris NES version
 
-+ src link:
-+ local name:
++ src link: [Tetris NES version](https://scratch.mit.edu/projects/31651654/)
++ local name: lesson11_ex00003_Tetris_NES_version.sb3
 
 ## ex00002,
 
