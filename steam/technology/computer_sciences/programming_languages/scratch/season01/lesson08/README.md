@@ -27,10 +27,10 @@
 + src link: [Galaga?](https://scratch.mit.edu/projects/10076961)
 + local name: lesson08_ex00006_Galaga_remix.sb3
 
-## ex,
+## ex00007, Clone Wars 3D ✪✪✪✪✪✪ Star Wars Games
 
-+ src link:
-+ local name: 
++ src link: [Clone Wars 3D ✪✪✪✪✪✪ Star Wars Games](https://scratch.mit.edu/projects/363917870/)
++ local name: lesson08_ex00007_Clone_Wars_3D_Star_Wars_Games_Are_Awesome.sb3
 
 ## ex,
 
