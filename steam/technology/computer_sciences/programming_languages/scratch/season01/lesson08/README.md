@@ -7,9 +7,9 @@
 + local name: lesson08_ex00002_Games_Flappy_Potter_Pizza_Mario_Fortnite_Clicker_Star_Wars_Blaster_MOBILE_animation_music.sb3
 
 
-## ex00003, 
+## ex00003, Clash Clicker
 
-+ src link:
++ src link: [Clash Clicker](https://scratch.mit.edu/projects/321689397/)
 + local name: lesson08_ex00003_Clash_Clicker_games_animation.sb3
 
 ## ex,
