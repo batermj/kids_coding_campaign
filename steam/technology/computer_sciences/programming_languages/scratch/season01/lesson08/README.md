@@ -32,6 +32,11 @@
 + src link: [Clone Wars 3D ✪✪✪✪✪✪ Star Wars Games](https://scratch.mit.edu/projects/363917870/)
 + local name: lesson08_ex00007_Clone_Wars_3D_Star_Wars_Games_Are_Awesome.sb3
 
+## ex, STARBLAST
+
++ src link: [STARBLAST](https://scratch.mit.edu/projects/352586419/)
++ local name: lesson08_ex00009_STARBLAST_games_animation_music_upgrade_space_star_wars_atomicmagic_number_2020.sb3
+
 ## ex,
 
 + src link:
