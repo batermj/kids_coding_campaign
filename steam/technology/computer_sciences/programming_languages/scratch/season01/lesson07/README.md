@@ -11,10 +11,10 @@
 + src link: [Sunset Puzzle Game](https://scratch.mit.edu/projects/92195036/)
 + local name: lesson07_ex00003_Sunset_Puzzle_Game.sb3
 
-## ex0000x,
+## ex00004, Binary Search Jigsaw
 
-+ src link:
-+ local name:
++ src link: [Binary Search Jigsaw](https://scratch.mit.edu/projects/100912338/) 
++ local name: 
 
 ## ex0000x,
 
