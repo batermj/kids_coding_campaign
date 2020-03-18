@@ -1,7 +1,7 @@
 # Homework
 
 ## 2020Mar18
-Two students submitted their homework, nct12516 and nurbol0727
+Three students submitted their homework, nct12516, nurbol0727 and kevinckc
 
  
 ## 2020Mar17
