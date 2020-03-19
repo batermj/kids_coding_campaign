@@ -24,10 +24,10 @@
 + src link: [Balloon Platformer  ✪✪✪✪✪✪ Spongbob,Peppa Pig,Mario,Minecraft Steve,Fortnite Llama Music and games](https://scratch.mit.edu/projects/372228820/)
 + local name: lesson03_ex00025_Balloon_Platformer.sb3
 
-## ex0000x,
+## ex00026, Comet v6.10
 
-+ src link:
-+ local name:
++ src link: [Comet v6.10](https://scratch.mit.edu/projects/262252337/)
++ local name: lesson03_ex00026_Comet_v6.10.sb3
 
 ## ex0000x,
 
