@@ -12,3 +12,51 @@
 + ***A Flying Bat***,
 + ***A Running Zebra***,
 + ***The Second Example Done by My Son Bakhtiyar to Be Improved***,
+
+
+## ex00024, Anime character maker　～キャラクターメー	
+
++ src link: [Anime character maker　～キャラクターメー](https://scratch.mit.edu/projects/324140233/)
++ local name: lesson03_ex00024_Anime_character_maker.sb3
+
+## ex0000x,
+
++ src link:
++ local name:
+
+## ex0000x,
+
++ src link:
++ local name:
+
+## ex0000x,
+
++ src link:
++ local name:
+
+## ex0000x,
+
++ src link:
++ local name:
+
+## ex0000x,
+
++ src link:
++ local name:
+
+## ex0000x,
+
++ src link:
++ local name:
+
+## ex0000x,
+
++ src link:
++ local name:
+
+## ex0000x,
+
++ src link:
++ local name:
+
+
