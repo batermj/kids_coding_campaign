@@ -29,10 +29,10 @@
 + src link: [Comet v6.10](https://scratch.mit.edu/projects/262252337/)
 + local name: lesson03_ex00026_Comet_v6.10.sb3
 
-## ex0000x,
+## ex00027, Pen Platformer Generator v1.8
 
-+ src link:
-+ local name:
++ src link: [Pen Platformer Generator v1.8](https://scratch.mit.edu/projects/349725421/)
++ local name: lesson03_ex00027_Pen_Platformer_Generator_v1.8.sb3
 
 ## ex0000x,
 
