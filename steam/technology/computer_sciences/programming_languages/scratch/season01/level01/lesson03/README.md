@@ -34,10 +34,10 @@
 + src link: [Pen Platformer Generator v1.8](https://scratch.mit.edu/projects/349725421/)
 + local name: lesson03_ex00027_Pen_Platformer_Generator_v1.8.sb3
 
-## ex0000x,
+## ex00028, + Whack A Mole +
 
-+ src link:
-+ local name:
++ src link: [+ Whack A Mole +](https://scratch.mit.edu/projects/374127483/)
++ local name: lesson03_ex00028_Whack_A_Mole.sb3
 
 ## ex0000x,
 
