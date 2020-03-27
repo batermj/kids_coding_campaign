@@ -32,10 +32,15 @@
 + src link: [Clone Wars 3D ✪✪✪✪✪✪ Star Wars Games](https://scratch.mit.edu/projects/363917870/)
 + local name: lesson08_ex00007_Clone_Wars_3D_Star_Wars_Games_Are_Awesome.sb3
 
-## ex, STARBLAST
+## ex00009, STARBLAST
 
 + src link: [STARBLAST](https://scratch.mit.edu/projects/352586419/)
 + local name: lesson08_ex00009_STARBLAST_games_animation_music_upgrade_space_star_wars_atomicmagic_number_2020.sb3
+
+## ex00010, Star Battle (Cloud 2v2) v2.1.0 [Server 1]
+
++ src link: [Star Battle (Cloud 2v2) v2.1.0 [Server 1]](https://scratch.mit.edu/projects/376656134/)
++ local name: lesson08_ex00010_Star_Battle_Cloud2v2_v2.1.0_Server1.sb3
 
 ## ex,
 
