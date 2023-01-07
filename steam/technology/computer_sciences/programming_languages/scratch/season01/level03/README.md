@@ -8,6 +8,8 @@
 + Game Name: Coin Collector Mobile friendly :) by MEGACREATIONMASTERJ
 + Game Link: https://scratch.mit.edu/projects/771890863/
 + File Name: lesson03_ex00001_Coin Collector Mobile friendly.sb3
++ File Name: lesson03_ex00002_Coin Collector Mobile friendly_Step 1.sb3
++ File Name: lesson03_ex00003_Coin Collector Mobile friendly_Step_2.sb3
 
 ## lesson04, 
 
