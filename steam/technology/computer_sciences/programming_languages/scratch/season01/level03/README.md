@@ -25,3 +25,12 @@
 ++ File Name: lesson04_ex00003_3D PingPong (vs. computer).sb3
 
 ## lesson05, 
+
+
+## lesson07, 
++ Game Name: Lost In Space - A Platformer #Games #All, by https://scratch.mit.edu/users/SquareXYZ/, 
+++ Game Link: https://scratch.mit.edu/projects/767809483/
+++ File Name: lesson07_ex00001_Lost In Space - A Platformer #Games #All.sb3
+
+## lesson08, 
+
